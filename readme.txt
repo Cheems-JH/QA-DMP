@@ -1,3 +1,5 @@
+This repository contains the official implementation for the paper: Jiang, Hao, Jianping He, and Xiaoming Duan. "Learning from Multi-quality Demonstrations in Dynamic Movement Primitives." IEEE Robotics and Automation Letters (2026).
+
 Code:
 - GMM_DMP.py:               >> the code of the basic DMP driven by GMM, used for comparison and intermediate data processing.
 - QA_DMP_for_2D_demos.py    >> the code of QA-DMP learning from 2D demos and generate outputs.
